@@ -1,0 +1,37 @@
+{
+
+    "links":[
+        {
+            "linkText":"صفحه اصلی",
+            "linkUrl":"#"
+        },
+        {
+            "linkText":"معرفی سرویس",
+            "linkUrl":"#services"
+        },
+        {
+            "linkText":"خدمات ما",
+            "linkUrl":"#our-job"
+        },
+        {
+            "linkText":"راهکار های توسعه",
+            "linkUrl":"#roadmap"
+        },
+        {
+            "linkText":"چرا ما؟",
+            "linkUrl":"#why-us"
+        },
+        {
+            "linkText":"مشتریان ما",
+            "linkUrl":"#our-customers"
+        },
+        {
+            "linkText":"سوالات متداول",
+            "linkUrl":"/"
+        },
+        {
+            "linkText":"درباره ما",
+            "linkUrl":"/"
+        }
+    ]
+}
